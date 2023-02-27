@@ -1,0 +1,12 @@
+.image-list{
+    columns:6 200px;
+    column-gap :10px;
+    padding:64px
+}
+img{ 
+    height:246px;
+    width:100%;
+    margin-bottom:10px;
+    margin:24px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+border-radius:12px}
